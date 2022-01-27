@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/DanceWebsite-%20%20/static/css/main.5caeb38d.chunk.css",
-    "main.js": "/DanceWebsite-%20%20/static/js/main.5b0ac07c.chunk.js",
-    "main.js.map": "/DanceWebsite-%20%20/static/js/main.5b0ac07c.chunk.js.map",
-    "runtime-main.js": "/DanceWebsite-%20%20/static/js/runtime-main.55e9039f.js",
-    "runtime-main.js.map": "/DanceWebsite-%20%20/static/js/runtime-main.55e9039f.js.map",
-    "static/js/2.cd8ee3dc.chunk.js": "/DanceWebsite-%20%20/static/js/2.cd8ee3dc.chunk.js",
-    "static/js/2.cd8ee3dc.chunk.js.map": "/DanceWebsite-%20%20/static/js/2.cd8ee3dc.chunk.js.map",
-    "static/js/3.5b3a70da.chunk.js": "/DanceWebsite-%20%20/static/js/3.5b3a70da.chunk.js",
-    "static/js/3.5b3a70da.chunk.js.map": "/DanceWebsite-%20%20/static/js/3.5b3a70da.chunk.js.map",
-    "index.html": "/DanceWebsite-%20%20/index.html",
-    "precache-manifest.78d7333a4c5dd75644be48ad342fee54.js": "/DanceWebsite-%20%20/precache-manifest.78d7333a4c5dd75644be48ad342fee54.js",
-    "service-worker.js": "/DanceWebsite-%20%20/service-worker.js",
-    "static/css/main.5caeb38d.chunk.css.map": "/DanceWebsite-%20%20/static/css/main.5caeb38d.chunk.css.map",
-    "static/js/2.cd8ee3dc.chunk.js.LICENSE.txt": "/DanceWebsite-%20%20/static/js/2.cd8ee3dc.chunk.js.LICENSE.txt"
+    "main.css": "/textutils/static/css/main.5caeb38d.chunk.css",
+    "main.js": "/textutils/static/js/main.5b0ac07c.chunk.js",
+    "main.js.map": "/textutils/static/js/main.5b0ac07c.chunk.js.map",
+    "runtime-main.js": "/textutils/static/js/runtime-main.c2a0d612.js",
+    "runtime-main.js.map": "/textutils/static/js/runtime-main.c2a0d612.js.map",
+    "static/js/2.cd8ee3dc.chunk.js": "/textutils/static/js/2.cd8ee3dc.chunk.js",
+    "static/js/2.cd8ee3dc.chunk.js.map": "/textutils/static/js/2.cd8ee3dc.chunk.js.map",
+    "static/js/3.5b3a70da.chunk.js": "/textutils/static/js/3.5b3a70da.chunk.js",
+    "static/js/3.5b3a70da.chunk.js.map": "/textutils/static/js/3.5b3a70da.chunk.js.map",
+    "index.html": "/textutils/index.html",
+    "precache-manifest.0df19f475bf507f9a1aa47ba64ff2c00.js": "/textutils/precache-manifest.0df19f475bf507f9a1aa47ba64ff2c00.js",
+    "service-worker.js": "/textutils/service-worker.js",
+    "static/css/main.5caeb38d.chunk.css.map": "/textutils/static/css/main.5caeb38d.chunk.css.map",
+    "static/js/2.cd8ee3dc.chunk.js.LICENSE.txt": "/textutils/static/js/2.cd8ee3dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.55e9039f.js",
+    "static/js/runtime-main.c2a0d612.js",
     "static/js/2.cd8ee3dc.chunk.js",
     "static/css/main.5caeb38d.chunk.css",
     "static/js/main.5b0ac07c.chunk.js"
