@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/DanceWebsite-/static/css/main.5caeb38d.chunk.css",
-    "main.js": "/DanceWebsite-/static/js/main.5b0ac07c.chunk.js",
-    "main.js.map": "/DanceWebsite-/static/js/main.5b0ac07c.chunk.js.map",
-    "runtime-main.js": "/DanceWebsite-/static/js/runtime-main.4e4683cb.js",
-    "runtime-main.js.map": "/DanceWebsite-/static/js/runtime-main.4e4683cb.js.map",
-    "static/js/2.cd8ee3dc.chunk.js": "/DanceWebsite-/static/js/2.cd8ee3dc.chunk.js",
-    "static/js/2.cd8ee3dc.chunk.js.map": "/DanceWebsite-/static/js/2.cd8ee3dc.chunk.js.map",
-    "static/js/3.5b3a70da.chunk.js": "/DanceWebsite-/static/js/3.5b3a70da.chunk.js",
-    "static/js/3.5b3a70da.chunk.js.map": "/DanceWebsite-/static/js/3.5b3a70da.chunk.js.map",
+    "main.css": "/DanceWebsite-/static/css/main.15f8ecf7.css",
+    "main.js": "/DanceWebsite-/static/js/main.b8c2651a.js",
+    "static/js/787.719ec76d.chunk.js": "/DanceWebsite-/static/js/787.719ec76d.chunk.js",
     "index.html": "/DanceWebsite-/index.html",
-    "precache-manifest.4c2c5e90b175158ba455612d85d959fc.js": "/DanceWebsite-/precache-manifest.4c2c5e90b175158ba455612d85d959fc.js",
-    "service-worker.js": "/DanceWebsite-/service-worker.js",
-    "static/css/main.5caeb38d.chunk.css.map": "/DanceWebsite-/static/css/main.5caeb38d.chunk.css.map",
-    "static/js/2.cd8ee3dc.chunk.js.LICENSE.txt": "/DanceWebsite-/static/js/2.cd8ee3dc.chunk.js.LICENSE.txt"
+    "main.15f8ecf7.css.map": "/DanceWebsite-/static/css/main.15f8ecf7.css.map",
+    "main.b8c2651a.js.map": "/DanceWebsite-/static/js/main.b8c2651a.js.map",
+    "787.719ec76d.chunk.js.map": "/DanceWebsite-/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e4683cb.js",
-    "static/js/2.cd8ee3dc.chunk.js",
-    "static/css/main.5caeb38d.chunk.css",
-    "static/js/main.5b0ac07c.chunk.js"
+    "static/css/main.15f8ecf7.css",
+    "static/js/main.b8c2651a.js"
   ]
 }
